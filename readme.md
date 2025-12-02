@@ -39,6 +39,18 @@ Twi-Hack is a compact ethical-hacking & prototyping dongle with USB-A, USB-C and
   <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/circuitpython_device_folder.png" weight="637" height="343">
 
 ### Example Code Testing:
-* Once everything setup download this github which contains example codes and lib files
+* Once everything setup download this github which contains [example codes]() and [lib]() files
 
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/circuitpython_device_folder.png" weight="637" height="343">
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/git_download.png" weight="539" height="231">
+
+* You can see system (PC/laptop) and Twi-Hack device folder, copy or transfer lib folder downloaded from github to device. Once done verify if all library files transferred properly otherwise you will get error while running example codes.
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/folder_view.png" weight="820" height="439">
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/upload_lib.png" weight="820" height="439">
+
+* Now open any sample example, copy or save as **code.py** into Twi-Hack CircuitPython device. After this you can remove and reinsert device so that script execute automatically, even you can test code from thonny by click green play button.
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/code_save.gif" weight="" height="">
+
+* Similarly you can test, modify and share sample [examples]() provided.
