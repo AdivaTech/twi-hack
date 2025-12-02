@@ -11,3 +11,30 @@ Twi-Hack is a compact ethical-hacking & prototyping dongle with USB-A, USB-C and
 - Compact Size – Pocket-friendly design, carry your hacking lab anywhere
 - Programming Language - C/C++, Arduino, MicroPython/CircuitPython
 
+### Hardware Pinout:
+<img src="https://github.com/AdivaTech/twi-hack/blob/main/images/twi-hack_pinout.PNG" weight="440" height="251">
+
+### Software Setup and Installation:
+* Download and Install Thonny IDE from [here](https://thonny.org/)
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/thonny_ide.PNG" weight="" height="">
+  
+* Press Hold BOOT button and connect to laptop/PC, now Twi-Hack device is in boot mode you will see RP2350 device folder open as shown below:
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/rp2350_device.PNG" weight="" height="">
+  
+* By default you will receive device with Circuitpython pre-installed, but no worry you can re-install as shown here if interested otherwise direct jump to next step for code testing.
+* So, to install just open thonny IDE with Twi-hack device connected. At bottom corner when clicked you will see install option both MicroPython & CircuitPython because device is in boot mode. To use HID features you are required to select CircuitPython option.
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/rp2350_device.PNG" weight="" height="">
+  
+* Select properly Target, family and variant as shown below and click install once done close.
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/target_selection.png" weight="" height="">
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/target_install.PNG" weight="" height="">
+  
+* Once installation successfull automatically device will be listed as circuitpy as shown with folder having few default files and folder.
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/circuitpython_device.png" weight="" height="">
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/circuitpython_device_folder.png" weight="" height="">
+
