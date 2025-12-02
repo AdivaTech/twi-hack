@@ -38,3 +38,7 @@ Twi-Hack is a compact ethical-hacking & prototyping dongle with USB-A, USB-C and
   <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/circuitpython_device.png" weight="820" height="435">
   <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/circuitpython_device_folder.png" weight="637" height="343">
 
+### Example Code Testing:
+* Once everything setup download this github which contains example codes and lib files
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/circuitpython_device_folder.png" weight="637" height="343">
