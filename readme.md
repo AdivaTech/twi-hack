@@ -54,3 +54,13 @@ Twi-Hack is a compact ethical-hacking & prototyping dongle with USB-A, USB-C and
   <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/code_save.gif" weight="" height="">
 
 * Similarly you can test, modify and share sample [examples]() provided.
+
+### HID Remapper
+With Twi-Hack, you can plug in a USB keyboard, intercept the keypresses, and remap them in real time. The board acts as both USB Host and HID Device. Great for custom shortcuts, ergonomic layouts, and rapid HID experiments.Follow below steps to setup and use keyboard or mouse with key remapped:
+* Press and Hold Boot button and insert Twi-Hack device to PC/laptop usb port. 
+* Copy or drag and drop [remapper_firmware.uf2](https://github.com/AdivaTech/twi-hack/blob/main/reampper_firmware.uf2) file provided here in github
+
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remapper_firmware_copy.png" weight="659" height="406">
+* It will automatically restart now device is acting as USB Host to connect any HID device, so you can connect keyboard or mouse to Type A female port. Start using keyboard/mouse/HID via Twi-Hack.
+
+#### Perform Remapping operation
