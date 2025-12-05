@@ -63,22 +63,4 @@ With Twi-Hack, you can plug in a USB keyboard, intercept the keypresses, and rem
   <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remapper_firmware_copy.png" weight="659" height="406">
 * It will automatically restart now device is acting as USB Host to connect any HID device, so you can connect keyboard or mouse to Type A female port. Start using keyboard/mouse/HID via Twi-Hack. For configuration no need of additional software only hardware is enough.
 
-#### Perform Remapping operation
-* Visit HID Remapper config [website](https://www.remapper.org/config/). Make sure Twi-Hack device connected to system with HID device (for demo use keyboard). Now click open device,
-
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_1.PNG" weight="659" height="406">
-  
-* Select device listed as shown and click connect,
-
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_2.png" weight="659" height="406">
-
-* Once connected now you can decide for particular key (input) pressed what output you need, for example will map "W" as Up Arrow. Click on input side select key need to remap, then on output side once done click save to device.
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_3.png" weight="659" height="406">
-  
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_4.png" weight="659" height="406">
-  
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_5.png" weight="659" height="406">
-  
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_6.png" weight="659" height="406">
-  
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_7.png" weight="659" height="406">
+* To perform sample remapping operation follow guide [here](https://github.com/AdivaTech/twi-hack/blob/main/Documents/HID%20Remapper%20Guide.pdf).
