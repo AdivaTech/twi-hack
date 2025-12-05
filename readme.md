@@ -70,15 +70,15 @@ With Twi-Hack, you can plug in a USB keyboard, intercept the keypresses, and rem
   
 * Select device listed as shown and click connect,
 
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_2.PNG" weight="659" height="406">
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_2.png" weight="659" height="406">
 
 * Once connected now you can decide for particular key (input) pressed what output you need, for example will map "W" as Up Arrow. Click on input side select key need to remap, then on output side once done click save to device.
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_3.PNG" weight="659" height="406">
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_3.png" weight="659" height="406">
   
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_4.PNG" weight="659" height="406">
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_4.png" weight="659" height="406">
   
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_5.PNG" weight="659" height="406">
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_5.png" weight="659" height="406">
   
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_6.PNG" weight="659" height="406">
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_6.png" weight="659" height="406">
   
-  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_7.PNG" weight="659" height="406">
+  <img src="https://github.com/AdivaTech/twi-hack/blob/main/images/remap_7.png" weight="659" height="406">
